@@ -1,0 +1,1 @@
+A library to access an API easier and practice working with an API
